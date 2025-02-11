@@ -1,3 +1,3 @@
 # Monitoring
 
-Repos dedier au installations des outils de monitoring
+Repos dédié à l'installation des outils de monitoring.
